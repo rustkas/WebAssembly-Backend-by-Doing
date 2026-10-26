@@ -19,6 +19,11 @@
 Мы используем стек **Rust + Axum + Wasmtime + WIT**. 
 
 ---
+## 📖 Исходный код книги
+
+[Source code]([./chapters/chapter-01.md](https://github.com/rustkas/wasm-backend-lab))
+
+---
 
 ## 🧪 Методика: PREDICT → RUN → OBSERVE → BREAK → FIX → MEASURE → UNDERSTAND → Evidence
 
